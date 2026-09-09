@@ -1,0 +1,178 @@
+{
+  "theme": {
+    "colorMode": "LIGHT",
+    "font": "PLUS_JAKARTA_SANS",
+    "roundness": "ROUND_EIGHT",
+    "customColor": "#0a2540",
+    "headlineFont": "PLUS_JAKARTA_SANS",
+    "bodyFont": "INTER",
+    "labelFont": "INTER",
+    "namedColors": {
+      "on_primary_fixed": "#001c37",
+      "primary_container": "#0a2540",
+      "on_tertiary_fixed": "#001f24",
+      "tertiary_container": "#00292f",
+      "secondary_container": "#76f4e0",
+      "on_primary_container": "#768dad",
+      "primary": "#000f22",
+      "on_tertiary_fixed_variant": "#004e59",
+      "secondary": "#006b5f",
+      "surface_bright": "#f9f9ff",
+      "error": "#ba1a1a",
+      "on_tertiary_container": "#3398a8",
+      "inverse_on_surface": "#ecf1ff",
+      "secondary_fixed": "#79f7e3",
+      "tertiary_fixed_dim": "#77d4e5",
+      "surface_container_highest": "#d8e3fb",
+      "surface_container_low": "#f0f3ff",
+      "tertiary": "#001215",
+      "on_primary": "#ffffff",
+      "surface_variant": "#d8e3fb",
+      "on_error": "#ffffff",
+      "on_error_container": "#93000a",
+      "on_secondary_fixed": "#00201c",
+      "surface_tint": "#49607e",
+      "surface_container": "#e7eeff",
+      "on_secondary": "#ffffff",
+      "on_surface": "#111c2d",
+      "on_background": "#111c2d",
+      "surface_dim": "#cfdaf2",
+      "secondary_fixed_dim": "#59dbc7",
+      "on_tertiary": "#ffffff",
+      "surface": "#f9f9ff",
+      "on_primary_fixed_variant": "#314865",
+      "outline_variant": "#c4c6ce",
+      "background": "#f9f9ff",
+      "error_container": "#ffdad6",
+      "on_surface_variant": "#43474d",
+      "primary_fixed_dim": "#b0c8eb",
+      "inverse_primary": "#b0c8eb",
+      "tertiary_fixed": "#9eefff",
+      "on_secondary_container": "#006f63",
+      "surface_container_lowest": "#ffffff",
+      "surface_container_high": "#dee8ff",
+      "outline": "#74777e",
+      "primary_fixed": "#d2e4ff",
+      "inverse_surface": "#263143",
+      "on_secondary_fixed_variant": "#005047"
+    },
+    "designMd": "---\nname: MediCare Multispeciality Healthcare System\ncolors:\n  surface: '#f9f9ff'\n  surface-dim: '#cfdaf2'\n  surface-bright: '#f9f9ff'\n  surface-container-lowest: '#ffffff'\n  surface-container-low: '#f0f3ff'\n  surface-container: '#e7eeff'\n  surface-container-high: '#dee8ff'\n  surface-container-highest: '#d8e3fb'\n  on-surface: '#111c2d'\n  on-surface-variant: '#43474d'\n  inverse-surface: '#263143'\n  inverse-on-surface: '#ecf1ff'\n  outline: '#74777e'\n  outline-variant: '#c4c6ce'\n  surface-tint: '#49607e'\n  primary: '#000f22'\n  on-primary: '#ffffff'\n  primary-container: '#0a2540'\n  on-primary-container: '#768dad'\n  inverse-primary: '#b0c8eb'\n  secondary: '#006b5f'\n  on-secondary: '#ffffff'\n  secondary-container: '#76f4e0'\n  on-secondary-container: '#006f63'\n  tertiary: '#001215'\n  on-tertiary: '#ffffff'\n  tertiary-container: '#00292f'\n  on-tertiary-container: '#3398a8'\n  error: '#ba1a1a'\n  on-error: '#ffffff'\n  error-container: '#ffdad6'\n  on-error-container: '#93000a'\n  primary-fixed: '#d2e4ff'\n  primary-fixed-dim: '#b0c8eb'\n  on-primary-fixed: '#001c37'\n  on-primary-fixed-variant: '#314865'\n  secondary-fixed: '#79f7e3'\n  secondary-fixed-dim: '#59dbc7'\n  on-secondary-fixed: '#00201c'\n  on-secondary-fixed-variant: '#005047'\n  tertiary-fixed: '#9eefff'\n  tertiary-fixed-dim: '#77d4e5'\n  on-tertiary-fixed: '#001f24'\n  on-tertiary-fixed-variant: '#004e59'\n  background: '#f9f9ff'\n  on-background: '#111c2d'\n  surface-variant: '#d8e3fb'\ntypography:\n  display:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 48px\n    fontWeight: '700'\n    lineHeight: 56px\n    letterSpacing: -0.02em\n  headline-lg:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 36px\n    fontWeight: '700'\n    lineHeight: 44px\n    letterSpacing: -0.015em\n  headline-lg-mobile:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 28px\n    fontWeight: '700'\n    lineHeight: 36px\n    letterSpacing: -0.01em\n  headline-md:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 24px\n    fontWeight: '600'\n    lineHeight: 32px\n    letterSpacing: -0.01em\n  headline-sm:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 20px\n    fontWeight: '600'\n    lineHeight: 28px\n    letterSpacing: 0em\n  title-lg:\n    fontFamily: Plus Jakarta Sans\n    fontSize: 18px\n    fontWeight: '600'\n    lineHeight: 24px\n    letterSpacing: 0em\n  title-md:\n    fontFamily: Inter\n    fontSize: 16px\n    fontWeight: '600'\n    lineHeight: 24px\n    letterSpacing: 0.005em\n  body-lg:\n    fontFamily: Inter\n    fontSize: 16px\n    fontWeight: '400'\n    lineHeight: 26px\n    letterSpacing: 0em\n  body-md:\n    fontFamily: Inter\n    fontSize: 14px\n    fontWeight: '400'\n    lineHeight: 22px\n    letterSpacing: 0.005em\n  body-sm:\n    fontFamily: Inter\n    fontSize: 12px\n    fontWeight: '400'\n    lineHeight: 18px\n    letterSpacing: 0.01em\n  label-md:\n    fontFamily: Inter\n    fontSize: 13px\n    fontWeight: '600'\n    lineHeight: 18px\n    letterSpacing: 0.02em\n  label-sm:\n    fontFamily: Inter\n    fontSize: 11px\n    fontWeight: '600'\n    lineHeight: 16px\n    letterSpacing: 0.04em\n  currency-stat:\n    fontFamily: Inter\n    fontSize: 24px\n    fontWeight: '700'\n    lineHeight: 30px\n    letterSpacing: -0.01em\nrounded:\n  sm: 0.25rem\n  DEFAULT: 0.5rem\n  md: 0.75rem\n  lg: 1rem\n  xl: 1.5rem\n  full: 9999px\nspacing:\n  space-2xs: 0.25rem\n  space-xs: 0.5rem\n  space-sm: 0.75rem\n  space-md: 1rem\n  space-lg: 1.5rem\n  space-xl: 2rem\n  space-2xl: 3rem\n  space-3xl: 4rem\n  gutter-sm: 1rem\n  gutter-md: 1.5rem\n  gutter-lg: 2rem\n  container-max: 1280px\n---\n\n## Brand & Style\nThis design system serves a premier Indian multi-speciality hospital network. The brand balances clinical precision and institutional authority with human warmth, empathy, and absolute clarity. The aesthetic combines **Corporate / Modern** structure with **Tactile Softness**—providing rapid cognitive clarity for distressed patients, anxious family members, and high-tempo clinicians.\n\n### Core Values & Visual Directives\n- **Clinical Reassurance:** Interfaces communicate world-class clinical competence through deep navy foundations, balanced whites, and calming teal accents.\n- **Cognitive Accessibility:** Life-critical workflows (e.g., 24x7 Emergency, ICU beds, OPD slot booking, OPD consultations) prioritize high legibility, unmistakable interactive targets, and zero decorative noise.\n- **Indian Institutional Trust:** Built-in conventions honor regional healthcare operations: native Indian Rupee (`₹`) typography, NABH/NABL accreditation validation indicators, TPA/Cashless insurance identifiers, and Ayushman Bharat / PM-JAY desk routing.\n\n## Colors\nThe palette evokes institutional stability and hygienic precision. The dark primary navy conveys deep clinical authority, while the lively teal acts as an active vector of healing, optimism, and guided action.\n\n### Palette Architecture\n- **Primary Navy (`#0A2540`, `#0E3A60`):** Dominates top navigation bars, structural headers, active clinical states, and primary button actions.\n- **Teal Accents (`#00A896`, `#028090`):** Used for interactive focus, appointments, active tabs, verified physician seals, and progress indicators.\n- **Clinical Wash (`#E0F7F6`, `#F0FDF4`):** Soft tints used for highlighted appointments, verified lab test rows, and active OPD queue tokens.\n- **Neutral Canvas (`#F8FAFC`, `#FFFFFF`):** High-efficiency surfaces that separate clinical data without visual fatigue.\n- **Typography Neutrals (`#1E293B`, `#64748B`, `#94A3B8`):** Strict slate grey tiers engineered to prevent harsh pure-black eye strain while preserving AAA contrast.\n- **Urgent & Status Channels:**\n  - **Emergency Crimson (`#E11D48`):** Reserved strictly for 24x7 Emergency callouts, ambulance dispatch, trauma alerts, and critical lab values.\n  - **Success Emerald (`#10B981`):** Normal lab ranges, paid invoices, slot confirmed.\n  - **Warning Amber (`#F59E0B`):** Fasting requirements, insurance queries, pending discharge approvals.\n\n## Typography\nThe typographic pairing reflects a clinical-to-human spectrum. **Plus Jakarta Sans** provides a welcoming, modern authority to major milestones, department banners, and doctor designations. **Inter** ensures high legibility for dense medical records, prescription dosages, diagnostic metrics, and financial breakdown tables.\n\n- **Tabular Figures:** Always apply `font-variant-numeric: tabular-nums` to lab results, vital stats (BP, SpO2, Heart Rate), bed charges, and INR transaction tallies.\n- **Rupee Glyph Precedence:** Prepend the official Indian Rupee symbol `₹` without spacing prior to numerical values, retaining the same font weight as the associated number.\n\n## Layout & Spacing\nThis design system uses an **8pt grid structure** paired with a responsive 12-column layout. It accommodates dual user journeys: casual mobile users scheduling consultations or checking lab results, and desk administrators handling concurrent inpatient records.\n\n### Breakpoints & Grids\n- **Mobile (<768px):** 4-column layout, 16px margins, 12px gutters. Pinned bottom navigation for Instant Triage, Emergency Callout, and My Appointments.\n- **Tablet (768px - 1024px):** 8-column layout, 24px margins, 16px gutters. Dynamic master-detail panes for patient histories.\n- **Desktop (>1024px):** 12-column layout maxing out at `1280px` centered, 32px margins, 24px gutters. Split-screen views with sticky clinical sidebars.\n\n### Layout Rules\n- **Triage Priority:** Critical actions (Emergency Ambulance, Ayushman Bharat desk inquiry, Blood Bank search) must be anchored above the fold across all responsive views.\n\n## Elevation & Depth\nDepth is represented through **ambient clinical shadows** coupled with subtle low-contrast boundaries. This prevents harsh separation, giving surfaces an approachable feel while differentiating clinical tiers.\n\n### Elevation Levels\n- **Level 0 (Floor):** `#F8FAFC` base page canvas. No shadow.\n- **Level 1 (Clinical Cards & Tiles):** Surface `#FFFFFF`, border `1px solid #E2E8F0`, shadow: `0 1px 3px rgba(10, 37, 64, 0.04), 0 1px 2px rgba(10, 37, 64, 0.02)`. Used for doctor bio cards, test listings, and profile details.\n- **Level 2 (Interactive Floating & Navigation):** Surface `#FFFFFF`, border `1px solid #CBD5E1`, shadow: `0 4px 12px rgba(10, 37, 64, 0.08), 0 2px 4px rgba(10, 37, 64, 0.03)`. Used for active date pickers, dropdown menus, and hovered cards.\n- **Level 3 (Modals & Emergency Drawers):** Surface `#FFFFFF`, border `1px solid transparent`, shadow: `0 20px 25px -5px rgba(10, 37, 64, 0.12), 0 10px 10px -5px rgba(10, 37, 64, 0.04)`.\n- **Emergency Halo:** For emergency banners and hotlines, use a layered glow: `0 0 0 3px rgba(225, 29, 72, 0.15), 0 4px 12px rgba(225, 29, 72, 0.25)`.\n\n## Shapes\nA roundedness level of `2` (`0.5rem` / `8px` default) creates a friendly, approachable atmosphere that softens an otherwise intimidating hospital context.\n\n### Radius Scale\n- **Base (0.5rem / 8px):** Form controls, inputs, data table containers, dropdown lists.\n- **Rounded-LG (1rem / 16px):** Specialty cards, doctor profile cards, OPD appointment modules, diagnostic packages.\n- **Rounded-XL (1.5rem / 24px):** Large promotional health checkup banners, emergency alert modals.\n- **Pill (9999px):** Status badges (e.g., \"NABH Accredited\", \"Cashless TPA Approved\"), doctor availability chips, emergency call triggers, and quick category pills.\n\n## Components\n\n### Buttons\n- **Primary Clinical Action:** Background `#0A2540`, text `#FFFFFF`, radius `8px`, height `44px`. Focus ring `2px solid #00A896`. Hover transitions to `#0E3A60`.\n- **Secondary / Action Accent:** Background `#00A896`, text `#FFFFFF`, radius `8px`, height `44px`. Used for \"Book Appointment\", \"Download Discharge Summary\".\n- **Emergency Button:** Background `#E11D48`, text `#FFFFFF`, radius `9999px` (pill), bold text with an emergency telephone icon prefix. Pulses with the Emergency Halo glow.\n\n### Chips & Badges\n- **Accreditation Badges (NABH / NABL):** Background `#F1F5F9`, border `1px solid #CBD5E1`, text `#0A2540`, font size `11px`, font weight `600`, pill radius. Accompanied by a mini gold-accented medical checkmark.\n- **TPA / Cashless Insurer Chips:** Background `#E0F7F6`, border `1px solid #028090`, text `#028090`, label-sm styling.\n- **Queue Status Chip:** Background `#FEF3C7`, text `#B45309`, rounded `4px`, displaying real-time patient queue metrics (e.g., \"12 mins wait\").\n\n### Cards\n- **Doctor Consultation Card:** Elevated Level 1 surface, 16px radius, internal 16px padding. Left side holds a rounded 64x64px physician portrait; center displays doctor name, qualification (`MBBS, MD, DM`), language spoken, and hospital department; right side displays available slots and a secondary appointment CTA button.\n- **Health Checkup Package Card:** Includes a teal ribbon tag header for discounts, bold currency stat (`₹2,499`), full list of tests included (with checkmarks), and a primary booking button.\n\n### Form Inputs & Controls\n- **Accessible Patient Fields:** Height `48px`, border `1.5px solid #CBD5E1`, radius `8px`, background `#FFFFFF`. Active focus state transitions to border `#00A896` with a `3px` teal glow ring (`rgba(0, 168, 150, 0.15)`).\n- **Checkboxes & Radios:** Size `20x20px`, active fill `#00A896` with white check/dot icon. Always paired with label text at a minimum click target size of 44x44px.\n\n### Specialized Hospital Modules\n- **24x7 Emergency Quickbar:** Fixed at screen top or corner on mobile, high-contrast `#E11D48` banner displaying `Emergency: 1066 / +91-XXXXXXXXXX` with instant direct-dial capability.\n- **Ayushman Bharat / Cashless Desk Widget:** Dedicated banner card with dual primary logos, clear eligibility check input (ABHA ID / Aadhaar number input field), and a direct WhatsApp support trigger.",
+    "colorVariant": "FIDELITY",
+    "overridePrimaryColor": "#0a2540",
+    "overrideSecondaryColor": "#00a896",
+    "overrideTertiaryColor": "#028090",
+    "overrideNeutralColor": "#1e293b",
+    "spacingScale": 2,
+    "typography": {
+      "body-lg": {
+        "fontFamily": "Inter",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "26px",
+        "letterSpacing": "0em"
+      },
+      "label-md": {
+        "fontFamily": "Inter",
+        "fontSize": "13px",
+        "fontWeight": "600",
+        "lineHeight": "18px",
+        "letterSpacing": "0.02em"
+      },
+      "label-sm": {
+        "fontFamily": "Inter",
+        "fontSize": "11px",
+        "fontWeight": "600",
+        "lineHeight": "16px",
+        "letterSpacing": "0.04em"
+      },
+      "title-md": {
+        "fontFamily": "Inter",
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "lineHeight": "24px",
+        "letterSpacing": "0.005em"
+      },
+      "headline-sm": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "20px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "letterSpacing": "0em"
+      },
+      "body-md": {
+        "fontFamily": "Inter",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "22px",
+        "letterSpacing": "0.005em"
+      },
+      "currency-stat": {
+        "fontFamily": "Inter",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.01em"
+      },
+      "headline-lg": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "36px",
+        "fontWeight": "700",
+        "lineHeight": "44px",
+        "letterSpacing": "-0.015em"
+      },
+      "headline-md": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "24px",
+        "fontWeight": "600",
+        "lineHeight": "32px",
+        "letterSpacing": "-0.01em"
+      },
+      "body-sm": {
+        "fontFamily": "Inter",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "18px",
+        "letterSpacing": "0.01em"
+      },
+      "title-lg": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24px",
+        "letterSpacing": "0em"
+      },
+      "display": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "48px",
+        "fontWeight": "700",
+        "lineHeight": "56px",
+        "letterSpacing": "-0.02em"
+      },
+      "headline-lg-mobile": {
+        "fontFamily": "Plus Jakarta Sans",
+        "fontSize": "28px",
+        "fontWeight": "700",
+        "lineHeight": "36px",
+        "letterSpacing": "-0.01em"
+      }
+    },
+    "spacing": {
+      "space-xs": "0.5rem",
+      "space-sm": "0.75rem",
+      "gutter-lg": "2rem",
+      "gutter-sm": "1rem",
+      "gutter-md": "1.5rem",
+      "space-xl": "2rem",
+      "space-lg": "1.5rem",
+      "space-md": "1rem",
+      "space-2xl": "3rem",
+      "container-max": "1280px",
+      "space-2xs": "0.25rem",
+      "space-3xl": "4rem"
+    },
+    "headlineFontFamily": "Plus Jakarta Sans",
+    "bodyFontFamily": "Inter",
+    "labelFontFamily": "Inter"
+  },
+  "deviceType": "DESKTOP"
+}

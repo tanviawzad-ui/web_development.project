@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60">
+  <defs>
+    <linearGradient id="carePlusGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B4F6C" />
+      <stop offset="100%" stop-color="#00A896" />
+    </linearGradient>
+  </defs>
+  <g transform="translate(10, 8)">
+    <rect width="44" height="44" rx="12" fill="url(#carePlusGrad)" />
+    <!-- Medical Cross with heartbeat line -->
+    <path d="M22 14v16M14 22h16" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="33" cy="13" r="4" fill="#00E5BE" />
+  </g>
+  <text x="64" y="30" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-weight="800" font-size="20" fill="#0B4F6C" letter-spacing="-0.5">CarePlus</text>
+  <text x="64" y="44" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-weight="600" font-size="10.5" fill="#028090" letter-spacing="1.2">MULTISPECIALITY HOSPITAL</text>
+</svg>

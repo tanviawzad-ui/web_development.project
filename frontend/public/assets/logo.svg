@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60" fill="none">
+  <g transform="translate(4, 6)">
+    <rect width="48" height="48" rx="12" fill="#0A2540"/>
+    <path d="M24 12V36M12 24H36" stroke="#00A896" stroke-width="4.5" stroke-linecap="round"/>
+    <circle cx="24" cy="24" r="4" fill="#FFFFFF"/>
+    <path d="M16 28C18 34 30 34 32 28" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <text x="62" y="32" font-family="'Plus Jakarta Sans', sans-serif" font-weight="800" font-size="22" fill="#0A2540" letter-spacing="-0.5">Medi<tspan fill="#00A896">Care</tspan></text>
+  <text x="63" y="46" font-family="'Plus Jakarta Sans', sans-serif" font-weight="600" font-size="9" fill="#64748B" letter-spacing="1.2">MULTISPECIALITY HOSPITAL</text>
+</svg>
