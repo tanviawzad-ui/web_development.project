@@ -46,6 +46,7 @@ com\yourorg\appname\exception\GlobalExceptionHandler.class
 com\yourorg\appname\dto\request\AppointmentBookingRequest.class
 com\yourorg\appname\repository\LabReportRepository.class
 com\yourorg\appname\entity\Patient.class
+com\yourorg\appname\config\DatabaseConfig.class
 com\yourorg\appname\dto\response\ApiResponse$ApiResponseBuilder.class
 com\yourorg\appname\security\JwtAuthFilter.class
 com\yourorg\appname\dto\response\PatientVitalDTO$PatientVitalDTOBuilder.class

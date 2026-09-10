@@ -59,7 +59,7 @@ Appointment {
     @Builder.Default
     private String status = "CONFIRMED"; // PENDING, CONFIRMED, COMPLETED, CANCELLED, RESCHEDULED
 
-    @Column(name = "reason_symptoms", columnDefinition = "NVARCHAR(MAX)")
+    @Column(name = "reason_symptoms", length = 2000)
     private String reasonSymptoms;
 
     @Column(name = "is_cashless_insurance", nullable = false)

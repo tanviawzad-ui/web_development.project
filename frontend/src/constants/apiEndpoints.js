@@ -1,4 +1,17 @@
-export const API_BASE_URL = '/api';
+// Dynamic API Base URL normalization for Cloud & Local Development
+// In production on Render, VITE_API_BASE_URL points to the deployed backend service
+// In local development, defaults to '/api' handled by Vite reverse proxy
+export const API_BASE_URL = (() => {
+  const envUrl = import.meta.env.VITE_API_BASE_URL;
+  if (!envUrl || typeof envUrl !== 'string' || envUrl.trim() === '') {
+    return '/api';
+  }
+  let cleanUrl = envUrl.trim().replace(/\/+$/, '');
+  if (!cleanUrl.startsWith('http://') && !cleanUrl.startsWith('https://') && !cleanUrl.startsWith('/')) {
+    cleanUrl = `https://${cleanUrl}`;
+  }
+  return cleanUrl.endsWith('/api') ? cleanUrl : `${cleanUrl}/api`;
+})();
 
 export const ENDPOINTS = {
   AUTH: {

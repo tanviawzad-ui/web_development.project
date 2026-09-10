@@ -39,7 +39,7 @@ public class Prescription {
     @Column(name = "next_review_date")
     private LocalDate nextReviewDate;
 
-    @Column(name = "lifestyle_instructions", columnDefinition = "NVARCHAR(MAX)")
+    @Column(name = "lifestyle_instructions", length = 2000)
     private String lifestyleInstructions;
 
     @Column(name = "is_active", nullable = false)

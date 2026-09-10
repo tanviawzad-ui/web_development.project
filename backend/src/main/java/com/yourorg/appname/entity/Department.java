@@ -29,7 +29,7 @@ public class Department {
     @Builder.Default
     private String icon = "local_hospital";
 
-    @Column(columnDefinition = "NVARCHAR(MAX)")
+    @Column(length = 2000)
     private String description;
 
     @Column(name = "sub_specialties", length = 500)

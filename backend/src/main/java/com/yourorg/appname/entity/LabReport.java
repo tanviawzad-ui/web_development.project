@@ -52,7 +52,7 @@ public class LabReport {
     @Column(name = "metric_highlight", length = 150)
     private String metricHighlight;
 
-    @Column(name = "result_summary", columnDefinition = "NVARCHAR(MAX)")
+    @Column(name = "result_summary", length = 2000)
     private String resultSummary;
 
     @Column(name = "lab_facility", length = 150)

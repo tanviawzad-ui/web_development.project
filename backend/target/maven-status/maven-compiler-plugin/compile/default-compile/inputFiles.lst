@@ -1,5 +1,6 @@
 C:\Users\USER\Desktop\Hospital Appointment management\backend\src\main\java\com\yourorg\appname\Application.java
 C:\Users\USER\Desktop\Hospital Appointment management\backend\src\main\java\com\yourorg\appname\config\CorsConfig.java
+C:\Users\USER\Desktop\Hospital Appointment management\backend\src\main\java\com\yourorg\appname\config\DatabaseConfig.java
 C:\Users\USER\Desktop\Hospital Appointment management\backend\src\main\java\com\yourorg\appname\config\DataInitializer.java
 C:\Users\USER\Desktop\Hospital Appointment management\backend\src\main\java\com\yourorg\appname\config\SecurityConfig.java
 C:\Users\USER\Desktop\Hospital Appointment management\backend\src\main\java\com\yourorg\appname\controller\AppointmentController.java
